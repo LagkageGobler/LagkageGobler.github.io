@@ -1,2 +1,2 @@
 # LagkageGobler.github.io
-my website
+My personal website
