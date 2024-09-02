@@ -1,0 +1,21 @@
+/* Man kan indsætte kommentarer i CSS på denne måde */
+
+/*
+Kommentarer
+kan sprede sig
+over flere 
+linjer
+*/
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color:black;
+    margin-left: 20px;
+  }
+ h2{
+    color:crimson;
+    margin-left: 20px;
+ }
